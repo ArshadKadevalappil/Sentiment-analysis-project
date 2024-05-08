@@ -13,8 +13,6 @@ Data Analysis For each of the extracted texts from the article, perform textual 
 
 The definition of each variable is given in the “Text Analysis.docx” file. Look for these variables in the analysis document 
 
-(Text Analysis.docx): POSITIVE SCORE NEGATIVE SCORE POLARITY SCORE SUBJECTIVITY SCORE AVG SENTENCE LENGTH PERCENTAGE OF COMPLEX WORDS FOG INDEX AVG NUMBER OF WORDS PER SENTENCE COMPLEX WORD COUNT WORD COUNT SYLLABLE PER WORD PERSONAL PRONOUNS AVG WORD LENGTH
-
 Output Data Structure Output Variables: 
 - All input variables in “Input.xlsx” 
 - POSITIVE SCORE
